@@ -1,0 +1,21 @@
+/*Styles dediés Manuel*/
+#manuel table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+#manuel table>tbody>tr>td {
+    vertical-align: middle;
+}
+#manuel table>tbody>tr>td, #manuel table>tbody>tr>th, #manuel table>tfoot>tr>td, #manuel table>tfoot>tr>th, #manuel table>thead>tr>td, #manuel table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    border: none;
+}
+
+#manuel img {
+    max-width: 600px;
+    vertical-align: middle;
+}

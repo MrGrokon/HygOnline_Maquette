@@ -1,0 +1,58 @@
+/*Colors theme test*/
+.bg-material-red {
+    background-color: #f44336 !important;
+}
+.bg-material-pink {
+    background-color: #e91e63 !important;
+}
+.bg-material-purple {
+    background-color: #9c27b0 !important;
+}
+.bg-material-deep-purple {
+    background-color: #673ab7 !important;
+}
+.bg-material-indigo {
+    background-color: #3f51b5 !important;
+}
+.bg-material-blue {
+    background-color: #2196f3 !important;
+}
+.bg-material-light-blue {
+    background-color: #03a9f4 !important;
+}
+.bg-material-cyan {
+    background-color: #00bcd4 !important;
+}
+.bg-material-teal {
+    background-color: #009688 !important;
+}
+.bg-material-green {
+    background-color: #4caf50 !important;
+}
+.bg-material-light-green{
+    background-color: #8bc34a; !important;
+}
+.bg-material-lime {
+    background-color: #cddc39 !important;
+}
+.bg-material-yellow{
+    background-color: #ffeb3b !important;
+}
+.bg-material-amber {
+    background-color: #ffc107 !important;
+}
+.bg-material-orange {
+    background-color: #ff9800 !important;
+}
+.bg-material-deep-orange {
+    background-color: #ff5722 !important;
+}
+.bg-material-brown {
+    background-color: #795548 !important;
+}
+.bg-material-grey {
+    background-color: #9e9e9e !important;
+}
+.bg-material-blue-grey {
+    background-color: #607d8b !important;
+}
